@@ -5,7 +5,13 @@ namespace Fisher_Yates_Shuffle
 {
     public class FisherYates
     {
+
+        //generate random number
         private Random _rand = new Random();
+
+        /**
+        *shuffle method help to shuffle the incoming data set
+         */
         public List<int> Shuffle(int [] data){
             
            var _list = new List<int>();
@@ -16,8 +22,7 @@ namespace Fisher_Yates_Shuffle
               var _temp = data[_rand_result];
               data[_rand_result] = data[i];
               data[i] = _temp;
-              var resultset = data[i];
-               _list.Add(resultset);
+               _list.Add( data[i]);
 
           }
          
