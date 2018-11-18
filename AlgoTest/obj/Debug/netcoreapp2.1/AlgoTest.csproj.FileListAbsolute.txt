@@ -1,0 +1,14 @@
+D:\My-Journey-With\csharp-algorithms\AlgoTest\bin\Debug\netcoreapp2.1\AlgoTest.deps.json
+D:\My-Journey-With\csharp-algorithms\AlgoTest\bin\Debug\netcoreapp2.1\AlgoTest.runtimeconfig.json
+D:\My-Journey-With\csharp-algorithms\AlgoTest\bin\Debug\netcoreapp2.1\AlgoTest.runtimeconfig.dev.json
+D:\My-Journey-With\csharp-algorithms\AlgoTest\bin\Debug\netcoreapp2.1\AlgoTest.dll
+D:\My-Journey-With\csharp-algorithms\AlgoTest\bin\Debug\netcoreapp2.1\AlgoTest.pdb
+D:\My-Journey-With\csharp-algorithms\AlgoTest\bin\Debug\netcoreapp2.1\Fisher-Yates-Shuffle.dll
+D:\My-Journey-With\csharp-algorithms\AlgoTest\bin\Debug\netcoreapp2.1\Fisher-Yates-Shuffle.pdb
+D:\My-Journey-With\csharp-algorithms\AlgoTest\obj\Debug\netcoreapp2.1\AlgoTest.csprojAssemblyReference.cache
+D:\My-Journey-With\csharp-algorithms\AlgoTest\obj\Debug\netcoreapp2.1\AlgoTest.csproj.CoreCompileInputs.cache
+D:\My-Journey-With\csharp-algorithms\AlgoTest\obj\Debug\netcoreapp2.1\AlgoTest.AssemblyInfoInputs.cache
+D:\My-Journey-With\csharp-algorithms\AlgoTest\obj\Debug\netcoreapp2.1\AlgoTest.AssemblyInfo.cs
+D:\My-Journey-With\csharp-algorithms\AlgoTest\obj\Debug\netcoreapp2.1\AlgoTest.csproj.CopyComplete
+D:\My-Journey-With\csharp-algorithms\AlgoTest\obj\Debug\netcoreapp2.1\AlgoTest.dll
+D:\My-Journey-With\csharp-algorithms\AlgoTest\obj\Debug\netcoreapp2.1\AlgoTest.pdb
